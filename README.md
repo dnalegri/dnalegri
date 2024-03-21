@@ -17,8 +17,8 @@ I am eager to transition into this field, specifically to join a Security Operat
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Administration (SSO, SAML)         | <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>|
+| Active Directory Administration (SSPR & MFA) | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -72,5 +72,5 @@ I am eager to transition into this field, specifically to join a Security Operat
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>
 - SOC Automation Project
