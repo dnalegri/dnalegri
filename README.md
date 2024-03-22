@@ -18,7 +18,7 @@ I am eager to transition into this field, specifically to join a Security Operat
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Administration (SSO, SAML)         | <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>|
-| Active Directory Administration (SSPR & MFA) | <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>|
+| Active Directory Administration (MFA, Conditional Access, RBAC) | <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
