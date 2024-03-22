@@ -18,7 +18,7 @@ I am eager to transition into this field, specifically to join a Security Operat
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Administration (SSO, SAML)         | <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>|
-| Active Directory Administration (SSPR & MFA) | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Administration (SSPR & MFA) | <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -61,7 +61,6 @@ I am eager to transition into this field, specifically to join a Security Operat
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCSK-000080?&style=for-the-badge)](https://cloudsecurityalliance.org/" />
 <img src="https://img.shields.io/badge/-Microsoft_SC--900-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/sc-900" />
 <img src="https://img.shields.io/badge/-Microsoft_AZ--900-4D4D4D?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900" />
 <img src="https://img.shields.io/badge/-Amazon_Cloud_Practitioner-006400?&style=for-the-badge&logo=Amazon+AWS&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/" />
@@ -73,4 +72,4 @@ I am eager to transition into this field, specifically to join a Security Operat
 
 ## Projects
 - <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>
-- SOC Automation Project
+- <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>
