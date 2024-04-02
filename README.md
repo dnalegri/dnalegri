@@ -9,8 +9,9 @@ Dynamic and driven sales professional interested in a career in the security fie
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey has led me to complete 2 cybersecurity specializations from Microsoft and Google and I've developed a passion to continue and grow within the security field. 
-I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has led me to complete 2 cybersecurity specializations from Microsoft and Google and several certifications with Microsoft Azure and AWS. I've developed a passion to continue and grow within the security field. 
+I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst. In the future, I would love to move into a Cloud
+Security Engineer Role or role based in Vulnerability Management/Pentesting.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
