@@ -9,9 +9,9 @@ Dynamic and driven sales professional interested in a career in the security fie
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey has led me to complete 2 cybersecurity specializations from Microsoft and Google and several certifications with Microsoft Azure and AWS. I've developed a passion to continue and grow within the security field. 
+My journey has led me to complete 2 cybersecurity specializations from Microsoft and Google and obtain several certifications with Microsoft Azure and AWS. I've developed a passion to continue and grow within the security field. 
 I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst. In the future, I would love to move into a Cloud
-Security Engineer Role or role based in Vulnerability Management/Pentesting.
+Security Engineer Role or a role based in Vulnerability Management/Pentesting.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -65,7 +65,7 @@ Security Engineer Role or role based in Vulnerability Management/Pentesting.
 <img src="https://img.shields.io/badge/-Microsoft_SC--900-007ACC?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/sc-900" />
 <img src="https://img.shields.io/badge/-Microsoft_AZ--900-4D4D4D?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900" />
 <img src="https://img.shields.io/badge/-Amazon_Cloud_Practitioner-006400?&style=for-the-badge&logo=Amazon+AWS&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/" />
-<img src="https://img.shields.io/badge/-Splunk_Power_User-000080?&style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/)" />
+<img src="https://img.shields.io/badge/-Splunk_Core_Certified_Power_User-000080?&style=for-the-badge&logo=Splunk&logoColor=white)](https://www.splunk.com/training/certification/splunk-core-certified-power-user" />
 
 
 
