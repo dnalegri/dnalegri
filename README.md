@@ -20,7 +20,7 @@ Security Engineer Role or a role based in Vulnerability Management/Pentesting.
 |-----------------------------------------------|----------------------------|
 | Active Directory Administration (SSO, SAML)         | <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>|
 | Active Directory Administration (MFA, Conditional Access, RBAC) | <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>|
-| Network Enumeration & Ethical Pentesting         |<a href="https://github.com/dnalegri/Enumeration-and-Pentesting">Enumeration & Ethical Pentesting</a>|
+| Network Scanning & Ethical Pentesting         |<a href="https://github.com/dnalegri/Network-Scanning-and-Ethical-Pentesting">Network Scanning & Ethical Pentesting</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -74,4 +74,4 @@ Security Engineer Role or a role based in Vulnerability Management/Pentesting.
 ## Projects
 - <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>
 - <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>
-- <a href="https://github.com/dnalegri/Enumeration-and-Pentesting">Enumeration & Ethical Pentesting</a>
+- <a href="https://github.com/dnalegri/Network-Scanning-and-Ethical-Pentesting">Network Scanning & Ethical Pentesting</a>
