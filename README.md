@@ -54,7 +54,6 @@ I am eager to transition into this field, specifically to join a Security Operat
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logo=ISC2&logoColor=white" />
@@ -67,4 +66,4 @@ I am eager to transition into this field, specifically to join a Security Operat
 </div>
 
 ## Cybersecurity Projects
-- <a href="https://github.com/dnalegri/projects" />
+- <a href="https://github.com/dnalegri/projects" Cybersecurity Project Portfolio />
