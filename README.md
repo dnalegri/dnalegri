@@ -66,4 +66,5 @@ I am eager to transition into this field, specifically to join a Security Operat
 </div>
 
 ## Cybersecurity Projects
-- <a href="https://github.com/dnalegri/projects" Cybersecurity Project Portfolio />
+- [Cybersecurity Project Portfolio](https://github.com/dnalegri/cybersecurity-projects)
+ 
