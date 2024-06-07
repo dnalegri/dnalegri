@@ -50,7 +50,12 @@ I am eager to transition into this field, specifically to join a Security Operat
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    
+</div>
+
+### PROGRAMMING
+<div>
+<img src="https://img.shields.io/badge/-Python_3-000080?&style=for-the-badge&logo=Python&logoColor=white" />
+
 </div>
 
 ## Certifications
