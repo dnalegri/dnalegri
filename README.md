@@ -2,24 +2,7 @@
 <a href="https://linkedin.com/in/destiniealegria"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Dynamic and driven sales professional interested in a career in the security field. 
-
-
-## Objective
-
-My journey has led me to complete 2 cybersecurity specializations from Microsoft and Google and obtain several certifications with Microsoft Azure and AWS. I've developed a passion to continue and grow within the security field. 
-I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Identity and Access Management (SSO, SAML)         | <a href="https://github.com/dnalegri/Azure-SAML-Configuration.git">SAML Configuration</a>|
-| Identity and Access Management (MFA, Conditional Access, RBAC) | <a href="https://github.com/dnalegri/Entra-MFA">MFA & Conditional Access</a>|
-| Network Traffic Analysis </a>|
-|       | SOC Automation Lab|
-|                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Dynamic and driven sales professional transitioning to a career in the security field. Demonstrating my practical experience and fundamental security knowledge through various home labs and projects. 
 
 ## Tools
 
